@@ -1,0 +1,2 @@
+# Financial-Market-Analysis
+Perform data visualization and technical analyses to find various parameters and Insights like Volatility, VWAP, trade calls using Simple moving average and Bollinger bands. Calculating Betas for the analysis of CAPM, trade call prediction using classification, Investment Portfolio optimization by calculating efficient frontier of optimal portfolio, Perform clustering to build diversified portfolio.
